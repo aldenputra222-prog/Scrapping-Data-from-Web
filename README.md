@@ -6,7 +6,7 @@ Script ini dirancang untuk ketahanan (robustness) terhadap koneksi yang tidak st
 
 ## 🚀 Fitur Utama
 
-- **Smart Filtering:** Mencari sekolah berdasarkan keyword kota (Contoh: Bandung, Yogyakarta, Bogor).
+- **Smart Filtering:** Mencari sekolah berdasarkan keyword kota (Contoh: Bandung, Yogyakarta, Bogor, Surabaya, Malang, Sidoarjo).
 - **Deep Extraction:** Mengambil data detail hingga ke fasilitas (jumlah ruang kelas, lab), data guru (PTK), dan koordinat lokasi.
 - **Resume Capability:** Jika script berhenti di tengah jalan, script akan melanjutkan dari data terakhir (tidak mulai dari nol).
 - **Anti-Failure:** Dilengkapi dengan *Retry Logic* otomatis jika server target *down* atau memblokir sementara.
